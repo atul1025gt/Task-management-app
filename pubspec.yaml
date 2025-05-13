@@ -1,0 +1,4 @@
+dependencies:
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.10.0
+  google_sign_in: ^5.4.4
