@@ -64,7 +64,7 @@ flutter doctor
 ### 2. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/task_manager_flutter.git
+git clone https://github.com/atul1025gt/Task-management-app.git
 cd task_manager_flutter
 ```
 
